@@ -1,5 +1,7 @@
-# Pulsar-Stars-Prediction
+# Predicting Pulsar Stars among Nuetron Stars
 Applying the XGBClassifier machine learning model to predict the 0 and 1 classes in the test dataset, i.e, x_test.
+0- Negative class
+1- Positive Class
 
 Each candidate is described by 8 continuous variables and a single class variable. The first four are simple statistics obtained from the integrated pulse profile (folded profile). This is an array of continuous variables that describe a longitude-resolved version of the signal that has been averaged in both time and frequency. The remaining four variables are similarly obtained from the DM-SNR curve. You do not have to worry about what they actually mean. These 8 variables are summarised below:
 
