@@ -1,4 +1,4 @@
-# Predicting Pulsar Stars among Nuetron Stars
+# Predicting Pulsar Stars among Neutron Stars
 Applying the XGBClassifier machine learning model to predict the 0 and 1 classes in the test dataset, i.e, x_test.
 0- Negative class
 1- Positive Class
