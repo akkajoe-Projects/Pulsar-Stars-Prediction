@@ -5,7 +5,7 @@ test_df= pd.read_csv("https://student-datasets-bucket.s3.ap-south-1.amazonaws.co
 
 print('train_df', train_df)
 print('test_df', test_df)
-print("Thue number of rows and columns in training dataset are", train_df.shape)
+print("The number of rows and columns in training dataset are", train_df.shape)
 print("The number of rows and columns in the testing dataset are", test_df.shape)
 
 # Check for the missing values in the 'train_df' DataFrame.
